@@ -1,0 +1,14 @@
+// Define your extension class
+class MyExtension {
+  constructor() {
+    // Initialization code here
+  }
+
+  // Define methods for your extension
+  myMethod(numset) {
+    // set all variables to (numset)
+  }
+}
+
+// Export your extension class so it can be used in Scratch
+module.exports = MyExtension;
